@@ -1,0 +1,62 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<!DOCTYPE KDevPrjSession>
+<KDevPrjSession>
+ <LastCompileConfig>(Default)</LastCompileConfig>
+ <Mainframe MaximizeMode="1" />
+ <DocsAndViews NumberOfDocuments="18" >
+  <Doc0 CursorPosLine="94" Type="KWriteDoc" NumberOfViews="1" CursorPosCol="0" FileName="/home/redfir/develop/firgen/firgen/structurelist.h" >
+   <View0 Top="25" Width="400" Attach="1" Height="300" Left="3" Focus="0" Type="KWriteView" MinMaxMode="0" />
+  </Doc0>
+  <Doc1 CursorPosLine="415" Type="KWriteDoc" NumberOfViews="1" CursorPosCol="1" FileName="/home/redfir/develop/firgen/firgen/structurelist.cpp" >
+   <View0 Top="48" Width="400" Attach="1" Height="300" Left="26" Focus="0" Type="KWriteView" MinMaxMode="0" />
+  </Doc1>
+  <Doc2 CursorPosLine="21" Type="KWriteDoc" NumberOfViews="1" CursorPosCol="0" FileName="/home/redfir/develop/firgen/firgen/graphtool.h" >
+   <View0 Top="71" Width="826" Attach="1" Height="599" Left="49" Focus="0" Type="KWriteView" MinMaxMode="0" />
+  </Doc2>
+  <Doc3 CursorPosLine="22" Type="KWriteDoc" NumberOfViews="1" CursorPosCol="0" FileName="/home/redfir/develop/firgen/firgen/structure2vhdl93.h" >
+   <View0 Top="94" Width="911" Attach="1" Height="599" Left="72" Focus="0" Type="KWriteView" MinMaxMode="0" />
+  </Doc3>
+  <Doc4 CursorPosLine="22" Type="KWriteDoc" NumberOfViews="1" CursorPosCol="0" FileName="/home/redfir/develop/firgen/firgen/structure2vhdl87.h" >
+   <View0 Top="117" Width="911" Attach="1" Height="599" Left="95" Focus="0" Type="KWriteView" MinMaxMode="0" />
+  </Doc4>
+  <Doc5 CursorPosLine="22" Type="KWriteDoc" NumberOfViews="1" CursorPosCol="0" FileName="/home/redfir/develop/firgen/firgen/structure2matlab.h" >
+   <View0 Top="140" Width="911" Attach="1" Height="599" Left="118" Focus="0" Type="KWriteView" MinMaxMode="0" />
+  </Doc5>
+  <Doc6 CursorPosLine="16" Type="KWriteDoc" NumberOfViews="1" CursorPosCol="0" FileName="/home/redfir/develop/firgen/firgen/implement.h" >
+   <View0 Top="163" Width="911" Attach="1" Height="599" Left="141" Focus="0" Type="KWriteView" MinMaxMode="0" />
+  </Doc6>
+  <Doc7 CursorPosLine="51" Type="KWriteDoc" NumberOfViews="1" CursorPosCol="0" FileName="/home/redfir/develop/firgen/firgen/nodegraph.cpp" >
+   <View0 Top="186" Width="911" Attach="1" Height="599" Left="164" Focus="0" Type="KWriteView" MinMaxMode="0" />
+  </Doc7>
+  <Doc8 CursorPosLine="435" Type="KWriteDoc" NumberOfViews="1" CursorPosCol="0" FileName="/home/redfir/develop/firgen/firgen/implement.cpp" >
+   <View0 Top="209" Width="911" Attach="1" Height="599" Left="187" Focus="0" Type="KWriteView" MinMaxMode="0" />
+  </Doc8>
+  <Doc9 CursorPosLine="31" Type="KWriteDoc" NumberOfViews="1" CursorPosCol="0" FileName="/usr/include/c++/3.2/backward/backward_warning.h" >
+   <View0 Top="232" Width="911" Attach="1" Height="599" Left="210" Focus="0" Type="KWriteView" MinMaxMode="0" />
+  </Doc9>
+  <Doc10 CursorPosLine="20" Type="KWriteDoc" NumberOfViews="1" CursorPosCol="0" FileName="/home/redfir/develop/firgen/firgen/geneticoptimizer.h" >
+   <View0 Top="255" Width="911" Attach="1" Height="599" Left="233" Focus="0" Type="KWriteView" MinMaxMode="0" />
+  </Doc10>
+  <Doc11 CursorPosLine="44" Type="KWriteDoc" NumberOfViews="1" CursorPosCol="0" FileName="/home/redfir/develop/firgen/firgen/dna.cpp" >
+   <View0 Top="278" Width="911" Attach="1" Height="599" Left="256" Focus="0" Type="KWriteView" MinMaxMode="0" />
+  </Doc11>
+  <Doc12 CursorPosLine="18" Type="KWriteDoc" NumberOfViews="1" CursorPosCol="2" FileName="/home/redfir/develop/firgen/firgen/dna.h" >
+   <View0 Top="301" Width="911" Attach="1" Height="599" Left="279" Focus="0" Type="KWriteView" MinMaxMode="0" />
+  </Doc12>
+  <Doc13 CursorPosLine="21" Type="KWriteDoc" NumberOfViews="1" CursorPosCol="0" FileName="/home/redfir/develop/firgen/firgen/parsfirfile.h" >
+   <View0 Top="324" Width="911" Attach="1" Height="599" Left="302" Focus="0" Type="KWriteView" MinMaxMode="0" />
+  </Doc13>
+  <Doc14 CursorPosLine="92" Type="KWriteDoc" NumberOfViews="1" CursorPosCol="0" FileName="/home/redfir/develop/firgen/firgen/redfir.cpp" >
+   <View0 Top="347" Width="911" Attach="1" Height="599" Left="325" Focus="0" Type="KWriteView" MinMaxMode="0" />
+  </Doc14>
+  <Doc15 CursorPosLine="34" Type="KWriteDoc" NumberOfViews="1" CursorPosCol="0" FileName="/home/redfir/develop/firgen/firgen/parsfirfile.cpp" >
+   <View0 Top="370" Width="911" Attach="1" Height="599" Left="348" Focus="0" Type="KWriteView" MinMaxMode="0" />
+  </Doc15>
+  <Doc16 CursorPosLine="60" Type="KWriteDoc" NumberOfViews="1" CursorPosCol="6" FileName="/home/redfir/develop/firgen/firgen/benchmark.cpp" >
+   <View0 Top="393" Width="911" Attach="1" Height="599" Left="371" Focus="0" Type="KWriteView" MinMaxMode="0" />
+  </Doc16>
+  <Doc17 CursorPosLine="554" Type="KWriteDoc" NumberOfViews="1" CursorPosCol="0" FileName="/usr/include/c++/3.2/bits/stl_tree.h" >
+   <View0 Top="391" Width="917" Attach="1" Height="627" Left="391" Focus="1" Type="KWriteView" MinMaxMode="2" />
+  </Doc17>
+ </DocsAndViews>
+</KDevPrjSession>
