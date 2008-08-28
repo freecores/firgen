@@ -1,0 +1,27 @@
+# //  ModelSim SE 6.1 Jun  6 2005 Linux 2.6.18-1-686
+# //
+# //  Copyright Mentor Graphics Corporation 2005
+# //              All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND 
+# //  PROPRIETARY INFORMATION WHICH IS THE PROPERTY
+# //  OF MENTOR GRAPHICS CORPORATION OR ITS LICENSORS
+# //  AND IS SUBJECT TO LICENSE TERMS.
+# //
+# vsim -do wave.do FIR_TB 
+# Loading /sw/modeltech/v6.1/modeltech/linux/../std.standard
+# Loading /sw/modeltech/v6.1/modeltech/linux/../ieee.std_logic_1164(body)
+# Loading /sw/modeltech/v6.1/modeltech/linux/../ieee.std_logic_arith(body)
+# Loading /sw/modeltech/v6.1/modeltech/linux/../std.textio(body)
+# Loading work.fir_tb(fir_tb_arch)
+# Loading work.components_redfir
+# Loading work.testfir(testfir_arch)
+# Loading work.minmax_pkg(body)
+# Loading work.delay(delay_arch)
+# Loading work.p_mult(p_mult_arch)
+# Loading work.s_mult(s_mult_arch)
+# Loading work.adder(adder_arch)
+# Loading work.a_sub(a_sub_arch)
+# Loading work.remap(remap_arch)
+# Loading work.chain(chain_arch)
+# do wave.do 

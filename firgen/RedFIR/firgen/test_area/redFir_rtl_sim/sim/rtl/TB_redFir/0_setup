@@ -1,0 +1,7 @@
+#!/bin/csh -f
+#-------------------------------------------------------------------------------
+#-- Title      : script to compile sources for system-simulation
+#-- Project    : 
+
+vsystem 6.1 1_compile
+vsystem 6.1 2_runsim

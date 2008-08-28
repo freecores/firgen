@@ -1,0 +1,69 @@
+Making all in docs
+make[1]: Entering directory `/home/redfir/user/geyerml/firgen/firgen/docs'
+Making all in en
+make[2]: Entering directory `/home/redfir/user/geyerml/firgen/firgen/docs/en'
+make[2]: Für das Ziel »all« ist nichts zu tun.
+make[2]: Leaving directory `/home/redfir/user/geyerml/firgen/firgen/docs/en'
+make[2]: Entering directory `/home/redfir/user/geyerml/firgen/firgen/docs'
+make[2]: Für das Ziel »all-am« ist nichts zu tun.
+make[2]: Leaving directory `/home/redfir/user/geyerml/firgen/firgen/docs'
+make[1]: Leaving directory `/home/redfir/user/geyerml/firgen/firgen/docs'
+make[1]: Entering directory `/home/redfir/user/geyerml/firgen/firgen'
+source='structurelist.cpp' object='structurelist.o' libtool=no \
+depfile='.deps/structurelist.Po' tmpdepfile='.deps/structurelist.TPo' \
+depmode=gcc3 /bin/sh ../admin/depcomp \
+g++ -DHAVE_CONFIG_H -I. -I. -I..     -Wnon-virtual-dtor -Wno-long-long -Wundef -Wall -pedantic -W -Wpointer-arith -Wmissing-prototypes -Wwrite-strings -ansi -D_XOPEN_SOURCE=500 -D_BSD_SOURCE -Wcast-align -Wconversion -O2 -fno-exceptions -fno-check-new -c -o structurelist.o `test -f 'structurelist.cpp' || echo './'`structurelist.cpp
+source='structure2vhdl93.cpp' object='structure2vhdl93.o' libtool=no \
+depfile='.deps/structure2vhdl93.Po' tmpdepfile='.deps/structure2vhdl93.TPo' \
+depmode=gcc3 /bin/sh ../admin/depcomp \
+g++ -DHAVE_CONFIG_H -I. -I. -I..     -Wnon-virtual-dtor -Wno-long-long -Wundef -Wall -pedantic -W -Wpointer-arith -Wmissing-prototypes -Wwrite-strings -ansi -D_XOPEN_SOURCE=500 -D_BSD_SOURCE -Wcast-align -Wconversion -O2 -fno-exceptions -fno-check-new -c -o structure2vhdl93.o `test -f 'structure2vhdl93.cpp' || echo './'`structure2vhdl93.cpp
+source='structure2vhdl87.cpp' object='structure2vhdl87.o' libtool=no \
+depfile='.deps/structure2vhdl87.Po' tmpdepfile='.deps/structure2vhdl87.TPo' \
+depmode=gcc3 /bin/sh ../admin/depcomp \
+g++ -DHAVE_CONFIG_H -I. -I. -I..     -Wnon-virtual-dtor -Wno-long-long -Wundef -Wall -pedantic -W -Wpointer-arith -Wmissing-prototypes -Wwrite-strings -ansi -D_XOPEN_SOURCE=500 -D_BSD_SOURCE -Wcast-align -Wconversion -O2 -fno-exceptions -fno-check-new -c -o structure2vhdl87.o `test -f 'structure2vhdl87.cpp' || echo './'`structure2vhdl87.cpp
+source='structure2matlab.cpp' object='structure2matlab.o' libtool=no \
+depfile='.deps/structure2matlab.Po' tmpdepfile='.deps/structure2matlab.TPo' \
+depmode=gcc3 /bin/sh ../admin/depcomp \
+g++ -DHAVE_CONFIG_H -I. -I. -I..     -Wnon-virtual-dtor -Wno-long-long -Wundef -Wall -pedantic -W -Wpointer-arith -Wmissing-prototypes -Wwrite-strings -ansi -D_XOPEN_SOURCE=500 -D_BSD_SOURCE -Wcast-align -Wconversion -O2 -fno-exceptions -fno-check-new -c -o structure2matlab.o `test -f 'structure2matlab.cpp' || echo './'`structure2matlab.cpp
+source='redfir.cpp' object='redfir.o' libtool=no \
+depfile='.deps/redfir.Po' tmpdepfile='.deps/redfir.TPo' \
+depmode=gcc3 /bin/sh ../admin/depcomp \
+g++ -DHAVE_CONFIG_H -I. -I. -I..     -Wnon-virtual-dtor -Wno-long-long -Wundef -Wall -pedantic -W -Wpointer-arith -Wmissing-prototypes -Wwrite-strings -ansi -D_XOPEN_SOURCE=500 -D_BSD_SOURCE -Wcast-align -Wconversion -O2 -fno-exceptions -fno-check-new -c -o redfir.o `test -f 'redfir.cpp' || echo './'`redfir.cpp
+source='parsfirfile.cpp' object='parsfirfile.o' libtool=no \
+depfile='.deps/parsfirfile.Po' tmpdepfile='.deps/parsfirfile.TPo' \
+depmode=gcc3 /bin/sh ../admin/depcomp \
+g++ -DHAVE_CONFIG_H -I. -I. -I..     -Wnon-virtual-dtor -Wno-long-long -Wundef -Wall -pedantic -W -Wpointer-arith -Wmissing-prototypes -Wwrite-strings -ansi -D_XOPEN_SOURCE=500 -D_BSD_SOURCE -Wcast-align -Wconversion -O2 -fno-exceptions -fno-check-new -c -o parsfirfile.o `test -f 'parsfirfile.cpp' || echo './'`parsfirfile.cpp
+source='nodegraph.cpp' object='nodegraph.o' libtool=no \
+depfile='.deps/nodegraph.Po' tmpdepfile='.deps/nodegraph.TPo' \
+depmode=gcc3 /bin/sh ../admin/depcomp \
+g++ -DHAVE_CONFIG_H -I. -I. -I..     -Wnon-virtual-dtor -Wno-long-long -Wundef -Wall -pedantic -W -Wpointer-arith -Wmissing-prototypes -Wwrite-strings -ansi -D_XOPEN_SOURCE=500 -D_BSD_SOURCE -Wcast-align -Wconversion -O2 -fno-exceptions -fno-check-new -c -o nodegraph.o `test -f 'nodegraph.cpp' || echo './'`nodegraph.cpp
+source='implement.cpp' object='implement.o' libtool=no \
+depfile='.deps/implement.Po' tmpdepfile='.deps/implement.TPo' \
+depmode=gcc3 /bin/sh ../admin/depcomp \
+g++ -DHAVE_CONFIG_H -I. -I. -I..     -Wnon-virtual-dtor -Wno-long-long -Wundef -Wall -pedantic -W -Wpointer-arith -Wmissing-prototypes -Wwrite-strings -ansi -D_XOPEN_SOURCE=500 -D_BSD_SOURCE -Wcast-align -Wconversion -O2 -fno-exceptions -fno-check-new -c -o implement.o `test -f 'implement.cpp' || echo './'`implement.cpp
+source='geneticoptimizer.cpp' object='geneticoptimizer.o' libtool=no \
+depfile='.deps/geneticoptimizer.Po' tmpdepfile='.deps/geneticoptimizer.TPo' \
+depmode=gcc3 /bin/sh ../admin/depcomp \
+g++ -DHAVE_CONFIG_H -I. -I. -I..     -Wnon-virtual-dtor -Wno-long-long -Wundef -Wall -pedantic -W -Wpointer-arith -Wmissing-prototypes -Wwrite-strings -ansi -D_XOPEN_SOURCE=500 -D_BSD_SOURCE -Wcast-align -Wconversion -O2 -fno-exceptions -fno-check-new -c -o geneticoptimizer.o `test -f 'geneticoptimizer.cpp' || echo './'`geneticoptimizer.cpp
+source='fir2hdl.cpp' object='fir2hdl.o' libtool=no \
+depfile='.deps/fir2hdl.Po' tmpdepfile='.deps/fir2hdl.TPo' \
+depmode=gcc3 /bin/sh ../admin/depcomp \
+g++ -DHAVE_CONFIG_H -I. -I. -I..     -Wnon-virtual-dtor -Wno-long-long -Wundef -Wall -pedantic -W -Wpointer-arith -Wmissing-prototypes -Wwrite-strings -ansi -D_XOPEN_SOURCE=500 -D_BSD_SOURCE -Wcast-align -Wconversion -O2 -fno-exceptions -fno-check-new -c -o fir2hdl.o `test -f 'fir2hdl.cpp' || echo './'`fir2hdl.cpp
+source='exception.cpp' object='exception.o' libtool=no \
+depfile='.deps/exception.Po' tmpdepfile='.deps/exception.TPo' \
+depmode=gcc3 /bin/sh ../admin/depcomp \
+g++ -DHAVE_CONFIG_H -I. -I. -I..     -Wnon-virtual-dtor -Wno-long-long -Wundef -Wall -pedantic -W -Wpointer-arith -Wmissing-prototypes -Wwrite-strings -ansi -D_XOPEN_SOURCE=500 -D_BSD_SOURCE -Wcast-align -Wconversion -O2 -fno-exceptions -fno-check-new -c -o exception.o `test -f 'exception.cpp' || echo './'`exception.cpp
+source='dna.cpp' object='dna.o' libtool=no \
+depfile='.deps/dna.Po' tmpdepfile='.deps/dna.TPo' \
+depmode=gcc3 /bin/sh ../admin/depcomp \
+g++ -DHAVE_CONFIG_H -I. -I. -I..     -Wnon-virtual-dtor -Wno-long-long -Wundef -Wall -pedantic -W -Wpointer-arith -Wmissing-prototypes -Wwrite-strings -ansi -D_XOPEN_SOURCE=500 -D_BSD_SOURCE -Wcast-align -Wconversion -O2 -fno-exceptions -fno-check-new -c -o dna.o `test -f 'dna.cpp' || echo './'`dna.cpp
+source='bitnumber.cpp' object='bitnumber.o' libtool=no \
+depfile='.deps/bitnumber.Po' tmpdepfile='.deps/bitnumber.TPo' \
+depmode=gcc3 /bin/sh ../admin/depcomp \
+g++ -DHAVE_CONFIG_H -I. -I. -I..     -Wnon-virtual-dtor -Wno-long-long -Wundef -Wall -pedantic -W -Wpointer-arith -Wmissing-prototypes -Wwrite-strings -ansi -D_XOPEN_SOURCE=500 -D_BSD_SOURCE -Wcast-align -Wconversion -O2 -fno-exceptions -fno-check-new -c -o bitnumber.o `test -f 'bitnumber.cpp' || echo './'`bitnumber.cpp
+source='benchmark.cpp' object='benchmark.o' libtool=no \
+depfile='.deps/benchmark.Po' tmpdepfile='.deps/benchmark.TPo' \
+depmode=gcc3 /bin/sh ../admin/depcomp \
+g++ -DHAVE_CONFIG_H -I. -I. -I..     -Wnon-virtual-dtor -Wno-long-long -Wundef -Wall -pedantic -W -Wpointer-arith -Wmissing-prototypes -Wwrite-strings -ansi -D_XOPEN_SOURCE=500 -D_BSD_SOURCE -Wcast-align -Wconversion -O2 -fno-exceptions -fno-check-new -c -o benchmark.o `test -f 'benchmark.cpp' || echo './'`benchmark.cpp
+/bin/sh ../libtool --silent --mode=link g++  -Wnon-virtual-dtor -Wno-long-long -Wundef -Wall -pedantic -W -Wpointer-arith -Wmissing-prototypes -Wwrite-strings -ansi -D_XOPEN_SOURCE=500 -D_BSD_SOURCE -Wcast-align -Wconversion -O2 -fno-exceptions -fno-check-new   -o firgen   structurelist.o structure2vhdl93.o structure2vhdl87.o structure2matlab.o redfir.o parsfirfile.o nodegraph.o implement.o geneticoptimizer.o fir2hdl.o exception.o dna.o bitnumber.o benchmark.o  
+make[1]: Leaving directory `/home/redfir/user/geyerml/firgen/firgen'

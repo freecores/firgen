@@ -1,0 +1,300 @@
+# //  ModelSim SE 6.1 Jun  6 2005 Linux 2.6.18-1-686
+# //
+# //  Copyright Mentor Graphics Corporation 2005
+# //              All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND 
+# //  PROPRIETARY INFORMATION WHICH IS THE PROPERTY
+# //  OF MENTOR GRAPHICS CORPORATION OR ITS LICENSORS
+# //  AND IS SUBJECT TO LICENSE TERMS.
+# //
+# Loading project fulladder
+# Compile of tb_fulladder.vhd was successful with warnings.
+# Compile of tb_fulladder.vhd was successful.
+# Compile of tb_fulladder.vhd was successful.
+vsim work.tb_fulladder
+# vsim work.tb_fulladder 
+# Loading /sw/modeltech/v6.1/modeltech/linux/../std.standard
+# Loading /sw/modeltech/v6.1/modeltech/linux/../ieee.std_logic_1164(body)
+# Loading /sw/modeltech/v6.1/modeltech/linux/../ieee.std_logic_arith(body)
+# Loading /sw/modeltech/v6.1/modeltech/linux/../std.textio(body)
+# Loading /sw/modeltech/v6.1/modeltech/linux/../ieee.std_logic_textio(body)
+# Loading work.tb_fulladder(tb_fadd)
+# Loading work.fulladder(struct)
+# ** Failure: (vsim-3807) Types do not match between component and entity for port a
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fulladder/module_fadd File: /home/geyerml/schmendrick/modelsim/vhdl/src/vhd/fulladder.vhd Line: 5
+# ** Failure: (vsim-3807) Types do not match between component and entity for port b
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fulladder/module_fadd File: /home/geyerml/schmendrick/modelsim/vhdl/src/vhd/fulladder.vhd Line: 5
+# ** Failure: (vsim-3807) Types do not match between component and entity for port carry_in
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fulladder/module_fadd File: /home/geyerml/schmendrick/modelsim/vhdl/src/vhd/fulladder.vhd Line: 5
+# ** Failure: (vsim-3807) Types do not match between component and entity for port sum
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fulladder/module_fadd File: /home/geyerml/schmendrick/modelsim/vhdl/src/vhd/fulladder.vhd Line: 6
+# ** Failure: (vsim-3807) Types do not match between component and entity for port carry
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fulladder/module_fadd File: /home/geyerml/schmendrick/modelsim/vhdl/src/vhd/fulladder.vhd Line: 6
+# Loading work.halfadder(rtl)
+# Fatal error at /home/geyerml/schmendrick/modelsim/vhdl/src/vhd/halfadder.vhd line 12
+#  while elaborating region: /tb_fulladder/module_fadd/module1
+# Load interrupted
+# Error loading design
+# Optimization canceled
+# Compile of tb_fulladder.vhd was successful.
+# Compile of tb_fulladder.vhd was successful.
+vsim work.tb_fulladder
+# vsim work.tb_fulladder 
+# Loading /sw/modeltech/v6.1/modeltech/linux/../std.standard
+# Loading /sw/modeltech/v6.1/modeltech/linux/../ieee.std_logic_1164(body)
+# Loading /sw/modeltech/v6.1/modeltech/linux/../ieee.std_logic_arith(body)
+# Loading /sw/modeltech/v6.1/modeltech/linux/../std.textio(body)
+# Loading /sw/modeltech/v6.1/modeltech/linux/../ieee.std_logic_textio(body)
+# Loading work.tb_fulladder(tb_fadd)
+# Loading work.fulladder(struct)
+# ** Failure: (vsim-3807) Types do not match between component and entity for port a
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fulladder/module_fadd File: /home/geyerml/schmendrick/modelsim/vhdl/src/vhd/fulladder.vhd Line: 5
+# ** Failure: (vsim-3807) Types do not match between component and entity for port b
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fulladder/module_fadd File: /home/geyerml/schmendrick/modelsim/vhdl/src/vhd/fulladder.vhd Line: 5
+# ** Failure: (vsim-3807) Types do not match between component and entity for port carry_in
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fulladder/module_fadd File: /home/geyerml/schmendrick/modelsim/vhdl/src/vhd/fulladder.vhd Line: 5
+# ** Failure: (vsim-3807) Types do not match between component and entity for port sum
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fulladder/module_fadd File: /home/geyerml/schmendrick/modelsim/vhdl/src/vhd/fulladder.vhd Line: 6
+# ** Failure: (vsim-3807) Types do not match between component and entity for port carry
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fulladder/module_fadd File: /home/geyerml/schmendrick/modelsim/vhdl/src/vhd/fulladder.vhd Line: 6
+# Loading work.halfadder(rtl)
+# Fatal error at /home/geyerml/schmendrick/modelsim/vhdl/src/vhd/halfadder.vhd line 12
+#  while elaborating region: /tb_fulladder/module_fadd/module1
+# Load interrupted
+# Error loading design
+vsim work.tb_fulladder
+# vsim work.tb_fulladder 
+# Loading /sw/modeltech/v6.1/modeltech/linux/../std.standard
+# Loading /sw/modeltech/v6.1/modeltech/linux/../ieee.std_logic_1164(body)
+# Loading /sw/modeltech/v6.1/modeltech/linux/../ieee.std_logic_arith(body)
+# Loading /sw/modeltech/v6.1/modeltech/linux/../std.textio(body)
+# Loading /sw/modeltech/v6.1/modeltech/linux/../ieee.std_logic_textio(body)
+# Loading work.tb_fulladder(tb_fadd)
+# Loading work.fulladder(struct)
+# ** Failure: (vsim-3807) Types do not match between component and entity for port a
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fulladder/module_fadd File: /home/geyerml/schmendrick/modelsim/vhdl/src/vhd/fulladder.vhd Line: 5
+# ** Failure: (vsim-3807) Types do not match between component and entity for port b
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fulladder/module_fadd File: /home/geyerml/schmendrick/modelsim/vhdl/src/vhd/fulladder.vhd Line: 5
+# ** Failure: (vsim-3807) Types do not match between component and entity for port carry_in
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fulladder/module_fadd File: /home/geyerml/schmendrick/modelsim/vhdl/src/vhd/fulladder.vhd Line: 5
+# ** Failure: (vsim-3807) Types do not match between component and entity for port sum
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fulladder/module_fadd File: /home/geyerml/schmendrick/modelsim/vhdl/src/vhd/fulladder.vhd Line: 6
+# ** Failure: (vsim-3807) Types do not match between component and entity for port carry
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fulladder/module_fadd File: /home/geyerml/schmendrick/modelsim/vhdl/src/vhd/fulladder.vhd Line: 6
+# Loading work.halfadder(rtl)
+# Fatal error at /home/geyerml/schmendrick/modelsim/vhdl/src/vhd/halfadder.vhd line 12
+#  while elaborating region: /tb_fulladder/module_fadd/module1
+# Load interrupted
+# Error loading design
+vsim work.tb_fulladder
+# vsim work.tb_fulladder 
+# Loading /sw/modeltech/v6.1/modeltech/linux/../std.standard
+# Loading /sw/modeltech/v6.1/modeltech/linux/../ieee.std_logic_1164(body)
+# Loading /sw/modeltech/v6.1/modeltech/linux/../ieee.std_logic_arith(body)
+# Loading /sw/modeltech/v6.1/modeltech/linux/../std.textio(body)
+# Loading /sw/modeltech/v6.1/modeltech/linux/../ieee.std_logic_textio(body)
+# Loading work.tb_fulladder(tb_fadd)
+# Loading work.fulladder(struct)
+# ** Failure: (vsim-3807) Types do not match between component and entity for port a
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fulladder/module_fadd File: /home/geyerml/schmendrick/modelsim/vhdl/src/vhd/fulladder.vhd Line: 5
+# ** Failure: (vsim-3807) Types do not match between component and entity for port b
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fulladder/module_fadd File: /home/geyerml/schmendrick/modelsim/vhdl/src/vhd/fulladder.vhd Line: 5
+# ** Failure: (vsim-3807) Types do not match between component and entity for port carry_in
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fulladder/module_fadd File: /home/geyerml/schmendrick/modelsim/vhdl/src/vhd/fulladder.vhd Line: 5
+# ** Failure: (vsim-3807) Types do not match between component and entity for port sum
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fulladder/module_fadd File: /home/geyerml/schmendrick/modelsim/vhdl/src/vhd/fulladder.vhd Line: 6
+# ** Failure: (vsim-3807) Types do not match between component and entity for port carry
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fulladder/module_fadd File: /home/geyerml/schmendrick/modelsim/vhdl/src/vhd/fulladder.vhd Line: 6
+# Loading work.halfadder(rtl)
+# Fatal error at /home/geyerml/schmendrick/modelsim/vhdl/src/vhd/halfadder.vhd line 12
+#  while elaborating region: /tb_fulladder/module_fadd/module1
+# Load interrupted
+# Error loading design
+vsim work.tb_fulladder
+# vsim work.tb_fulladder 
+# Loading /sw/modeltech/v6.1/modeltech/linux/../std.standard
+# Loading /sw/modeltech/v6.1/modeltech/linux/../ieee.std_logic_1164(body)
+# Loading /sw/modeltech/v6.1/modeltech/linux/../ieee.std_logic_arith(body)
+# Loading /sw/modeltech/v6.1/modeltech/linux/../std.textio(body)
+# Loading /sw/modeltech/v6.1/modeltech/linux/../ieee.std_logic_textio(body)
+# Loading work.tb_fulladder(tb_fadd)
+# Loading work.fulladder(struct)
+# ** Failure: (vsim-3807) Types do not match between component and entity for port a
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fulladder/module_fadd File: /home/geyerml/schmendrick/modelsim/vhdl/src/vhd/fulladder.vhd Line: 5
+# ** Failure: (vsim-3807) Types do not match between component and entity for port b
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fulladder/module_fadd File: /home/geyerml/schmendrick/modelsim/vhdl/src/vhd/fulladder.vhd Line: 5
+# ** Failure: (vsim-3807) Types do not match between component and entity for port carry_in
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fulladder/module_fadd File: /home/geyerml/schmendrick/modelsim/vhdl/src/vhd/fulladder.vhd Line: 5
+# ** Failure: (vsim-3807) Types do not match between component and entity for port sum
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fulladder/module_fadd File: /home/geyerml/schmendrick/modelsim/vhdl/src/vhd/fulladder.vhd Line: 6
+# ** Failure: (vsim-3807) Types do not match between component and entity for port carry
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fulladder/module_fadd File: /home/geyerml/schmendrick/modelsim/vhdl/src/vhd/fulladder.vhd Line: 6
+# Loading work.halfadder(rtl)
+# Fatal error at /home/geyerml/schmendrick/modelsim/vhdl/src/vhd/halfadder.vhd line 12
+#  while elaborating region: /tb_fulladder/module_fadd/module1
+# Load interrupted
+# Error loading design
+vsim work.tb_fulladder
+# vsim work.tb_fulladder 
+# Loading /sw/modeltech/v6.1/modeltech/linux/../std.standard
+# Loading /sw/modeltech/v6.1/modeltech/linux/../ieee.std_logic_1164(body)
+# Loading /sw/modeltech/v6.1/modeltech/linux/../ieee.std_logic_arith(body)
+# Loading /sw/modeltech/v6.1/modeltech/linux/../std.textio(body)
+# Loading /sw/modeltech/v6.1/modeltech/linux/../ieee.std_logic_textio(body)
+# Loading work.tb_fulladder(tb_fadd)
+# Loading work.fulladder(struct)
+# ** Failure: (vsim-3807) Types do not match between component and entity for port a
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fulladder/module_fadd File: /home/geyerml/schmendrick/modelsim/vhdl/src/vhd/fulladder.vhd Line: 5
+# ** Failure: (vsim-3807) Types do not match between component and entity for port b
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fulladder/module_fadd File: /home/geyerml/schmendrick/modelsim/vhdl/src/vhd/fulladder.vhd Line: 5
+# ** Failure: (vsim-3807) Types do not match between component and entity for port carry_in
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fulladder/module_fadd File: /home/geyerml/schmendrick/modelsim/vhdl/src/vhd/fulladder.vhd Line: 5
+# ** Failure: (vsim-3807) Types do not match between component and entity for port sum
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fulladder/module_fadd File: /home/geyerml/schmendrick/modelsim/vhdl/src/vhd/fulladder.vhd Line: 6
+# ** Failure: (vsim-3807) Types do not match between component and entity for port carry
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fulladder/module_fadd File: /home/geyerml/schmendrick/modelsim/vhdl/src/vhd/fulladder.vhd Line: 6
+# Loading work.halfadder(rtl)
+# Fatal error at /home/geyerml/schmendrick/modelsim/vhdl/src/vhd/halfadder.vhd line 12
+#  while elaborating region: /tb_fulladder/module_fadd/module1
+# Load interrupted
+# Error loading design
+vsim work.tb_fulladder
+# vsim work.tb_fulladder 
+# Loading /sw/modeltech/v6.1/modeltech/linux/../std.standard
+# Loading /sw/modeltech/v6.1/modeltech/linux/../ieee.std_logic_1164(body)
+# Loading /sw/modeltech/v6.1/modeltech/linux/../ieee.std_logic_arith(body)
+# Loading /sw/modeltech/v6.1/modeltech/linux/../std.textio(body)
+# Loading /sw/modeltech/v6.1/modeltech/linux/../ieee.std_logic_textio(body)
+# Loading work.tb_fulladder(tb_fadd)
+# Loading work.fulladder(struct)
+# ** Failure: (vsim-3807) Types do not match between component and entity for port a
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fulladder/module_fadd File: /home/geyerml/schmendrick/modelsim/vhdl/src/vhd/fulladder.vhd Line: 5
+# ** Failure: (vsim-3807) Types do not match between component and entity for port b
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fulladder/module_fadd File: /home/geyerml/schmendrick/modelsim/vhdl/src/vhd/fulladder.vhd Line: 5
+# ** Failure: (vsim-3807) Types do not match between component and entity for port carry_in
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fulladder/module_fadd File: /home/geyerml/schmendrick/modelsim/vhdl/src/vhd/fulladder.vhd Line: 5
+# ** Failure: (vsim-3807) Types do not match between component and entity for port sum
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fulladder/module_fadd File: /home/geyerml/schmendrick/modelsim/vhdl/src/vhd/fulladder.vhd Line: 6
+# ** Failure: (vsim-3807) Types do not match between component and entity for port carry
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fulladder/module_fadd File: /home/geyerml/schmendrick/modelsim/vhdl/src/vhd/fulladder.vhd Line: 6
+# Loading work.halfadder(rtl)
+# Fatal error at /home/geyerml/schmendrick/modelsim/vhdl/src/vhd/halfadder.vhd line 12
+#  while elaborating region: /tb_fulladder/module_fadd/module1
+# Load interrupted
+# Error loading design
+vsim work.fulladder
+# vsim work.fulladder 
+# Loading /sw/modeltech/v6.1/modeltech/linux/../std.standard
+# Loading work.fulladder(struct)
+# Loading work.halfadder(rtl)
+vsim work.halfadder
+# vsim work.halfadder 
+# Loading /sw/modeltech/v6.1/modeltech/linux/../std.standard
+# Loading work.halfadder(rtl)
+vsim work.tb_fulladder
+# vsim work.tb_fulladder 
+# Loading /sw/modeltech/v6.1/modeltech/linux/../std.standard
+# Loading /sw/modeltech/v6.1/modeltech/linux/../ieee.std_logic_1164(body)
+# Loading /sw/modeltech/v6.1/modeltech/linux/../ieee.std_logic_arith(body)
+# Loading /sw/modeltech/v6.1/modeltech/linux/../std.textio(body)
+# Loading /sw/modeltech/v6.1/modeltech/linux/../ieee.std_logic_textio(body)
+# Loading work.tb_fulladder(tb_fadd)
+# Loading work.fulladder(struct)
+# ** Failure: (vsim-3807) Types do not match between component and entity for port a
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fulladder/module_fadd File: /home/geyerml/schmendrick/modelsim/vhdl/src/vhd/fulladder.vhd Line: 5
+# ** Failure: (vsim-3807) Types do not match between component and entity for port b
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fulladder/module_fadd File: /home/geyerml/schmendrick/modelsim/vhdl/src/vhd/fulladder.vhd Line: 5
+# ** Failure: (vsim-3807) Types do not match between component and entity for port carry_in
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fulladder/module_fadd File: /home/geyerml/schmendrick/modelsim/vhdl/src/vhd/fulladder.vhd Line: 5
+# ** Failure: (vsim-3807) Types do not match between component and entity for port sum
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fulladder/module_fadd File: /home/geyerml/schmendrick/modelsim/vhdl/src/vhd/fulladder.vhd Line: 6
+# ** Failure: (vsim-3807) Types do not match between component and entity for port carry
+#    Time: 0 ns  Iteration: 0  Instance: /tb_fulladder/module_fadd File: /home/geyerml/schmendrick/modelsim/vhdl/src/vhd/fulladder.vhd Line: 6
+# Loading work.halfadder(rtl)
+# Fatal error at /home/geyerml/schmendrick/modelsim/vhdl/src/vhd/halfadder.vhd line 12
+#  while elaborating region: /tb_fulladder/module_fadd/module1
+# Load interrupted
+# Error loading design
+# Compile of tb_fulladder.vhd was successful.
+# Compile of halfadder.vhd failed with 1 errors.
+# Compile of fulladder.vhd failed with 1 errors.
+# 3 compiles, 2 failed with 2 errors. 
+# Compile of tb_fulladder.vhd was successful.
+# Compile of halfadder.vhd was successful.
+# Compile of fulladder.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+vsim work.tb_fulladder
+# vsim work.tb_fulladder 
+# Loading /sw/modeltech/v6.1/modeltech/linux/../std.standard
+# Loading /sw/modeltech/v6.1/modeltech/linux/../ieee.std_logic_1164(body)
+# Loading /sw/modeltech/v6.1/modeltech/linux/../ieee.std_logic_arith(body)
+# Loading /sw/modeltech/v6.1/modeltech/linux/../std.textio(body)
+# Loading /sw/modeltech/v6.1/modeltech/linux/../ieee.std_logic_textio(body)
+# Loading work.tb_fulladder(tb_fadd)
+# Loading work.fulladder(struct)
+# Loading work.halfadder(rtl)
+# No ports found in tb_fulladder
+step
+step -over
+view *
+# .main_pane.workspace .main_pane.mdi.interior.cs.vm.paneset.cli_0.wf.clip.cs.editor .main_pane.activeproc.interior.cs .main_pane.signals.interior.cs .main_pane.variables.interior.cs .dataflow .main_pane.mdi.interior.cs.vm.paneset.cli_2.wf.clip.cs .main_pane.mdi.interior.cs.vm.paneset.cli_1.wf.clip.cs.pw.wf .main_pane.profilemain .main_pane.workspace .main_pane.watch.interior.cs .main_pane.analysis .main_pane.analysis .main_pane.analysis .main_pane.transcript.interior.cs .main_pane.profiledetails
+
+
+
+# Compile of tb_fulladder.vhd was successful.
+# Compile of halfadder.vhd was successful.
+# Compile of fulladder.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run -all
+run -all
+run -all
+run -all
+run -all
+run -all
+run -all
+run -all
+run -all
+run -all
+run -all
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run

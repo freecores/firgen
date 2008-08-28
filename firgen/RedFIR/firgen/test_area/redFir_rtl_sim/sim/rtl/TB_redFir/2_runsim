@@ -1,0 +1,21 @@
+#!/bin/csh -f
+#-------------------------------------------------------------------------------
+#-- Title      : script to compile sources for system-simulation
+#-- Project    : 
+
+
+
+echo " SIMULATE RedFir Filter"
+
+
+set rtl_path     = ../../../src/vhd
+set tb_path      = $rtl_path/tb
+set coregen_path = ../../../src/coregen
+
+set worklib  = ./work
+
+
+
+vmap  work work
+
+vsim  FIR_TB -do wave.do 
